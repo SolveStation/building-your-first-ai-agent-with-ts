@@ -111,6 +111,78 @@ Each project directory contains supplementary documentation:
 - Docker deployment guides
 - Integration documentation
 
+## Learning Resources
+
+To deepen your understanding of the technologies and concepts covered in this webinar, explore these resources:
+
+### LangChain Documentation and Tutorials
+
+- **Official LangChain Documentation**: https://python.langchain.com/docs/get_started/introduction
+- **LangChain JavaScript Documentation**: https://js.langchain.com/docs/get_started/introduction
+- **LangChain Tutorials**: https://github.com/langchain-ai/langchain/tree/master/docs/docs/tutorials
+- **LangChain Cookbook**: Practical examples and recipes for common use cases
+
+### LangGraph Resources
+
+- **LangGraph Documentation**: https://langchain-ai.github.io/langgraph/
+- **LangGraph Tutorials**: https://langchain-ai.github.io/langgraph/tutorials/
+- **Building Agent Workflows**: https://blog.langchain.dev/langgraph-multi-agent-workflows/
+- **LangGraph Cloud**: Platform for deploying LangGraph applications
+
+### AI Agents and LLM Concepts
+
+- **Prompt Engineering Guide**: https://www.promptingguide.ai/
+- **OpenAI Prompt Engineering Best Practices**: https://platform.openai.com/docs/guides/prompt-engineering
+- **AI Agent Design Patterns**: Research papers and articles on agent architectures
+- **LLM Application Patterns**: https://martinfowler.com/articles/exploring-gen-ai.html
+
+### Google Gemini AI
+
+- **Google AI Studio**: https://makersuite.google.com/
+- **Gemini API Documentation**: https://ai.google.dev/docs
+- **Google Generative AI SDK**: https://github.com/google/generative-ai-js
+- **Gemini Model Capabilities**: https://ai.google.dev/models/gemini
+
+### TypeScript and Node.js
+
+- **TypeScript Handbook**: https://www.typescriptlang.org/docs/handbook/intro.html
+- **Node.js Best Practices**: https://github.com/goldbergyoni/nodebestpractices
+- **Express.js Documentation**: https://expressjs.com/
+- **TypeScript Deep Dive**: https://basarat.gitbook.io/typescript/
+
+### Database and ORM
+
+- **Drizzle ORM Documentation**: https://orm.drizzle.team/docs/overview
+- **PostgreSQL Tutorial**: https://www.postgresql.org/docs/current/tutorial.html
+- **Database Design for Developers**: https://use-the-index-luke.com/
+
+### Google Cloud Integration
+
+- **Google Drive API**: https://developers.google.com/drive/api/guides/about-sdk
+- **Google Calendar API**: https://developers.google.com/calendar/api/guides/overview
+- **Google OAuth 2.0**: https://developers.google.com/identity/protocols/oauth2
+
+### Additional Learning Platforms
+
+- **LangChain Academy**: Free courses on building with LangChain
+- **DeepLearning.AI**: Courses on LLMs and AI agents
+- **Coursera**: AI and Machine Learning specializations
+- **YouTube Channels**: LangChain official channel, AI Explained, and others
+
+### Community and Support
+
+- **LangChain Discord**: Join the community for discussions and support
+- **LangChain GitHub**: Explore issues, contribute, and learn from examples
+- **Reddit r/LangChain**: Community discussions and use cases
+- **Stack Overflow**: Search for LangChain and LangGraph questions
+
+### Books and Publications
+
+- "Building LLM Apps: Create Intelligent Apps and Agents with Large Language Models"
+- "Generative AI with LangChain" by Ben Auffarth
+- Research papers on agent architectures and LLM applications
+- AI research blogs from major tech companies
+
 ## Contact Information
 
 ### Solve Station Labs
