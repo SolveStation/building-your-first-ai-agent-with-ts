@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains materials and projects for the Solve Station Labs webinar on building AI-powered applications and intelligent agents using LangChain, LangGraph, and large language models (LLMs). The webinar demonstrates practical implementation patterns for integrating AI capabilities into modern applications.
+This repository contains materials and projects for the SolveStation Labs webinar on building AI-powered applications and intelligent agents using LangChain, LangGraph, and large language models (LLMs). The webinar demonstrates practical implementation patterns for integrating AI capabilities into modern applications.
 
 ## What This Webinar Covers
 
@@ -185,7 +185,7 @@ To deepen your understanding of the technologies and concepts covered in this we
 
 ## Contact Information
 
-### Solve Station Labs
+### SolveStation Labs
 
 For questions, support, or collaboration opportunities regarding this webinar:
 
@@ -194,7 +194,7 @@ For questions, support, or collaboration opportunities regarding this webinar:
 **Website**: https://www.solvestation.tech
 
 **Social Media**:
-- LinkedIn: [Solve Station Labs](https://www.linkedin.com/company/solvestation)
+- LinkedIn: [SolveStation Labs](https://www.linkedin.com/company/solvestation)
 - Instagram: @SolveStation
 - GitHub: [SolveStation](https://github.com/solvestation)
 
@@ -215,7 +215,7 @@ For technical questions about the webinar content or projects:
 
 ## License
 
-This material is provided for educational purposes as part of the Solve Station Labs webinar series. Please refer to individual project directories for specific licensing information.
+This material is provided for educational purposes as part of the SolveStation Labs webinar series. Please refer to individual project directories for specific licensing information.
 
 ## Acknowledgments
 
